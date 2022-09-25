@@ -1,5 +1,7 @@
 # Custom ignores
 Pip*
+.history/
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
