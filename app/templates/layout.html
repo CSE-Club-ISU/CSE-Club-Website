@@ -6,7 +6,9 @@
         <title>CSE</title>
         <meta name="description" content="Some Content">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="/static/styles.css">
+
+        <link rel="stylesheet" href="/static/css/styles.css">
+        <link rel="stylesheet" href="/static/css/bootstrap.min.css">
     </head>
     <body>
         <nav>
@@ -16,6 +18,10 @@
             <a href="/contact">Contact</a>
             <a href="/sponsors">Sponsors</a>
         </nav>
-        {% block body %}{% endblock body %}
+        <div class="container">
+            {% block body %}{% endblock body %}
+        </div>
+
+        <script src="/static/js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
