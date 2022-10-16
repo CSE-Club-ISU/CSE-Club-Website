@@ -1,5 +1,7 @@
 {% extends 'layout.html' %}
+{% from 'who_we_are.html' import who_we_are with context %}
 
 {% block body %}
     <h1>Landing</h1>
+    {{ who_we_are() }}
 {% endblock body %}
