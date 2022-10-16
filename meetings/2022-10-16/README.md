@@ -10,4 +10,5 @@ layout.html
         contact_us.html
     footer.html
 
-{% extends 'layout.html' %}
+{% extends 'layout.html' %}  # most things will extend layout
+{% macro code_network_jobs() -%}  # use macros
