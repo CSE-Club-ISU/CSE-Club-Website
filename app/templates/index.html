@@ -1,7 +1,15 @@
 {% extends 'layout.html' %}
+<<<<<<< HEAD
 {% from 'who_we_are.html' import who_we_are with context %}
 
 {% block body %}
     <h1>Landing</h1>
     {{ who_we_are() }}
 {% endblock body %}
+=======
+{% from 'landing/code_network_jobs.html' import code_network_jobs with context %}
+
+{% block body %}
+{{ code_network_jobs() }}
+{% endblock body %}
+>>>>>>> main
