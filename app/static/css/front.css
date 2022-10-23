@@ -1,0 +1,49 @@
+.wrap-layer
+{
+    position: relative;
+}
+
+.background-layer
+{
+    width: 100%;
+    height: 46.25em;
+}
+
+.text-layer
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin-top: 8em;/* simulate navbar */
+}
+
+h1
+{
+    font-size: 3em;
+    font-family: sans-serif;
+    color: #373F41;
+}
+
+p
+{
+    font-size: 1em;
+    font-family: sans-serif;
+    color: #737B7D;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+}
+
+.col
+{
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+.btn
+{
+    background-color: #C8102E;
+    border-radius: 0em;
+    padding-left: 1.75em;
+    padding-right: 1.75em;
+}
