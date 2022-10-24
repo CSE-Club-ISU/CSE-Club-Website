@@ -1,5 +1,5 @@
 # Computer Science and Software Engineering Club Official Website
-[![CI](https://github.com/Iowa-State-University-CSE-Club/CSE-Club-Website/actions/workflows/ci.yml/badge.svg)](https://github.com/Iowa-State-University-CSE-Club/CSE-Club-Website/actions/workflows/ci.yml)
+[![CI](https://github.com/Iowa-State-University-CSE-Club/CSE-Club-Website/actions/workflows/check_pep8.yaml/badge.svg)](https://github.com/Iowa-State-University-CSE-Club/CSE-Club-Website/actions/workflows/check_pep8.yaml)
 
 [//]: # (The above link is for the CI link to show if the current build is passing.)
 
