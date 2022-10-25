@@ -11,9 +11,9 @@ Developed by students in the CSE Club.
 
 ## Contributors
 
-**Maintainer: Charles Yang [@Yarles404](https://github.com/Yarles404), Senior**
+_Formatting: `**[Role]: [First] [Last] [@github_username](https://github.com/username), [Year]**`_
 
-Formatting: `**[Role]: [First] [Last] [@github_username](https://github.com/username), [Year]**`
+**Maintainer: Charles Yang [@Yarles404](https://github.com/Yarles404), Senior**
 
 [//]: # (Copy the above link formatting and add yourself to the appropriate sub-group.)
 
