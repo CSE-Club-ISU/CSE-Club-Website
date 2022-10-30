@@ -1,5 +1,5 @@
 # Computer Science and Software Engineering Club Official Website
-[![CI](https://github.com/Iowa-State-University-CSE-Club/CSE-Club-Website/actions/workflows/ci.yml/badge.svg)](https://github.com/Iowa-State-University-CSE-Club/CSE-Club-Website/actions/workflows/ci.yml)
+[![CI](https://github.com/Iowa-State-University-CSE-Club/CSE-Club-Website/actions/workflows/check_pep8.yaml/badge.svg)](https://github.com/Iowa-State-University-CSE-Club/CSE-Club-Website/actions/workflows/check_pep8.yaml)
 
 [//]: # (The above link is for the CI link to show if the current build is passing.)
 
@@ -11,9 +11,9 @@ Developed by students in the CSE Club.
 
 ## Contributors
 
-**Maintainer: Charles Yang [@Yarles404](https://github.com/Yarles404), Senior**
+_Formatting: `**[Role]: [First] [Last] [@github_username](https://github.com/username), [Year]**`_
 
-Formatting: `**[Role]: [First] [Last] [@github_username](https://github.com/username), [Year]**`
+**Maintainer: Charles Yang [@Yarles404](https://github.com/Yarles404), Senior**
 
 [//]: # (Copy the above link formatting and add yourself to the appropriate sub-group.)
 
