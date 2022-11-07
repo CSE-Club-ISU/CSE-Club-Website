@@ -1,0 +1,43 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    margin: 0;
+    top: 0;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    background: #F1BE48;
+}
+nav a {
+    text-decoration: none;
+    padding: 10px;
+}
+nav .logo {
+    text-align: left;
+}
+nav ul {
+    width: 100%;
+    text-align: center;
+    list-style: none;
+    margin: 0;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a {
+    color: red;
+}
+nav ul li a:hover {
+    color: rgb(126, 0, 0);
+}
+nav a#search {
+    background: red;
+    color: white;
+}
+nav a:hover#search {
+    color: white;
+    background:rgb(126, 0, 0);
+}
